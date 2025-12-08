@@ -5,7 +5,7 @@
 
 <h1 align="center">👋 Hi, I'm AmirHossein Salmani</h1>
 <p align="center">
-  <b>Front-End Developer | JavaScript Lover | UI/UX Focused</b>
+ Front-End Developer | Ideas and Creativity: Crafting the Future
 </p>
 
 
@@ -22,10 +22,18 @@
 
 ---
 
-## 🚀 About Me
+## 🧑🏻‍💻 About Me
 
-Front-end developer focused on building clean, scalable, and beautiful web interfaces.  
-I enjoy modern UI/UX, smooth animations, and improving user experience through elegant code.
+Hello! I’m Amirhossein, a 21-year-old Front-End Developer with 3 years of experience in this field. From the very beginning, programming has never been just a skill for me… it became a way to create, innovate, and turn ideas into reality ✨
+
+I’m deeply passionate about creating — whether it’s designing a user interface or building a new experience. Every time I sit behind the screen, I feel like I enter a world where I can turn a few lines of code into something visible, tangible, and meaningful for people 😊
+
+I appreciate calm and patient environments; the software world belongs to those who can navigate even the toughest challenges with composure and focus, and I truly love being part of that space 🌿
+
+My curiosity and desire to learn are always with me — driven more by passion and daily curiosity than by pressure or obligation.
+
+For me, programming isn’t just a job; it’s an essential and beautiful part of life…
+A place to create, experiment, and reach for big dreams ✨🚀
 
 ---
 
