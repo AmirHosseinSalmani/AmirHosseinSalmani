@@ -4,22 +4,20 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm AmirHossein Salmani</h1>
-
 <p align="center">
   <b>Front-End Developer | JavaScript Lover | UI/UX Focused</b>
 </p>
+
 
 <!-- Social Icons -->
 <p align="center">
   <a href="www.linkedin.com/in/amir-hossein-salmani">
     <img height="28" src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/AmirHosseinSalmani">
     <img height="28" src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="mailto:youremail@example.com">
-    <img height="28" src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+
 </p>
 
 ---
@@ -35,17 +33,17 @@ I enjoy modern UI/UX, smooth animations, and improving user experience through e
 
 ### Languages & Core
 <p align="left">
-  <img height="38" src="https://skillicons.dev/icons?i=html,css,js,ts" />
+  <img height="35" src="https://skillicons.dev/icons?i=html,css,js,ts" />
 </p>
 
-### Frameworks & Styling
+### Frameworks & Libraries
 <p align="left">
-  <img height="38" src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
+  <img height="35" src="https://skillicons.dev/icons?i=react,tailwind" />
 </p>
 
 ### Tools
 <p align="left">
-  <img height="38" src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+  <img height="35" src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
 </p>
 
 ---
@@ -70,7 +68,9 @@ Next.js dashboard UI with charts and reusable components.
 ---
 
 ## 📬 Contact
-- Website: https://yourwebsite.com  
+<p>  <a href="mailto:salmaniamirgk1@example.com">
+    <img height="18" src="https://skillicons.dev/icons?i=email" />
+  </a> https://yourwebsite.com </p>  
 - Email: youremail@example.com  
 - LinkedIn: https://linkedin.com/in/yourprofile  
 - YouTube: https://youtube.com/yourchannel  
