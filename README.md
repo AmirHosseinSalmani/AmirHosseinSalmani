@@ -10,10 +10,10 @@
 
 
 <!-- Social Icons -->
-<p align="center">
-  <a href="[www.linkedin.com/in/amir-hossein-salmani](https://www.linkedin.com/in/amir-hossein-salmani)">
-    <img height="28" src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+<p align="center" >
+<a href="https://www.linkedin.com/in/amir-hossein-salmani">
+  <img height="28" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" />
+</a>
   <a href="https://www.instagram.com/amirs.salmani/">
     <img height="28" src="https://skillicons.dev/icons?i=instagram" />
   </a>
